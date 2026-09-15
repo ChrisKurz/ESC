@@ -35,10 +35,10 @@ Before using this approach, ensure that a compatible version of the nRF Connect 
 1. Clone the Add-on repository:
 
    ```
-   git clone --branch v2.1.0 https://github.com/nrfconnect/sdk-edge-ai
+   git clone --branch v2.3.0 https://github.com/nrfconnect/sdk-edge-ai
    ```
 
-2. Set the CMake or environment variable `EXTRA_ZEPHYR_MODULES` to the Add-on code path. Use an absolute path to ensure proper path resolution. Check the [Environment Variables](https://nrfconnectdocs.nordicsemi.com/ncs/3.3.0/zephyr/develop/env_vars.html) documentation for different ways of setting environment variables in Zephyr.
+2. Set the CMake or environment variable `EXTRA_ZEPHYR_MODULES` to the Add-on code path. Use an absolute path to ensure proper path resolution. Check the [Environment Variables](https://nrfconnectdocs.nordicsemi.com/ncs/3.4.0/zephyr/develop/env_vars.html) documentation for different ways of setting environment variables in Zephyr.
 
    > **Note:** If you wish to:
    > - Use Edge Impulse in Zephyr library deployment.
