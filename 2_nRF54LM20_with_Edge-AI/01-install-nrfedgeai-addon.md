@@ -17,7 +17,7 @@ To get the Edge AI Add-on code, you can either:
 Clone the Edge AI Add-on code, together with the compatible nRF Connect SDK:
 
 1. Ensure you have installed [Visual Studio Code](https://code.visualstudio.com) and the [nRF Connect for Visual Studio Code](https://docs.nordicsemi.com/r/bundle/nrf-connect-vscode) extension.
-2. Follow the [nRF Connect SDK installation guide](https://nrfconnectdocs.nordicsemi.com/ncs/3.3.0/nrf/installation/install_ncs.html) to install nRF Connect SDK prerequisites and toolchain v3.3.0.
+2. Follow the [nRF Connect SDK installation guide](https://nrfconnectdocs.nordicsemi.com/ncs/3.4.0/nrf/installation/install_ncs.html) to install nRF Connect SDK prerequisites and toolchain v3.4.0.
 
    > **Note:** The compatible version of the nRF Connect SDK will be cloned with the Edge AI Add-on repository in the following steps. The version of nRF Connect SDK is fixed to the version of Edge AI Add-on and is hard-coded in the `west.yml` file of the Edge AI Add-on.
 
