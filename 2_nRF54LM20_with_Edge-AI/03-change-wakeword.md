@@ -24,3 +24,6 @@ To save time in the folder `custom-wake-word` you find four already trained keyw
 | avnet     | Wake_Word - Avnet_95575_wake_word              |
 | future    | Wake_Word - Future_95576_wake_word             |
 | rutronik  | Wake_Word - Rutronik_95574_wake_word           |
+
+---
+[Next: _(Optional) Exercise model observability_](04-enable-observability.md)

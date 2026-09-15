@@ -26,7 +26,7 @@ Audio is captured as single-channel, 16 kHz PCM from a PDM digital microphone an
 | Microphone | PDM digital microphone, left channel only (tested with Adafruit PDM MEMS Microphone, product 3492) |
 | Mic wiring | `3V → VDD:IO`, `GND → GND`, `SEL → GND` (selects left channel), `CLK → P1.4`, `DAT → P1.5` |
 
-
+![image](images/nrf54lm20dk-ada3492.jpg)
 
 ---
 
@@ -235,3 +235,7 @@ Keyword spotting window timeout
 - [nRF Edge AI Observability Library — Built-in metric: Probability distribution](https://nrfconnectdocs.nordicsemi.com/addons/addon-edge-ai/latest/libraries/nrf_edgeai_obsv.html#nrf-edgeai-obsv-metrics-built-in-probability)
 - [nRF Edge AI Observability Library — Built-in metric: Transition matrix](https://nrfconnectdocs.nordicsemi.com/addons/addon-edge-ai/latest/libraries/nrf_edgeai_obsv.html#nrf-edgeai-obsv-metrics-built-in-transition)
 - [Edge AI Lab — Wake Word Detection](https://docs.nordicsemi.com/r/bundle/edge-ai-lab/page/wake_word.html)
+
+---
+
+[Next: _Change wake-word_](03-change-wakeword.md)
