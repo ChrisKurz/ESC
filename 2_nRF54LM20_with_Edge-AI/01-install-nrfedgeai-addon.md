@@ -45,3 +45,6 @@ Before using this approach, ensure that a compatible version of the nRF Connect 
    > - Use Edge Impulse samples from Add-on.
    >
    > Repeat the steps above for [edge-impulse-sdk-zephyr](https://github.com/edgeimpulse/edge-impulse-sdk-zephyr). The `EXTRA_ZEPHYR_MODULES` variable should be set to `<path to Add-on>;<path to Edge Impulse SDK>`.
+
+---
+   [Next: _Building a Wake Word and Keyword Spotting_](02-wake-word-kws-training.md)
