@@ -18,3 +18,6 @@ If you plan to enable observability, also review Section 4's metric options (`CO
    ./scripts/decode_edgeai_obsv_cdr/decode_edgeai_obsv_cdr.py --binary --file <payload>.bin
    ```
 6. Inspect the decoded probability distribution and (for the KWS stage) transition matrix to evaluate real-world model behavior — confidence levels per class, and which keywords are being confused with each other.
+
+---
+[back to Agenda](../README.md)
