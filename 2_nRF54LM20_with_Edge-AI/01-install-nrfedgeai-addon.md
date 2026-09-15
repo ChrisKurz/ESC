@@ -24,7 +24,7 @@ Clone the Edge AI Add-on code, together with the compatible nRF Connect SDK:
 3. Open the nRF Connect extension in Visual Studio Code by clicking its icon in the Activity Bar.
 4. In the extension's Welcome view, click **Create a new application**. The list of actions appears in the Visual Studio Code quick pick.
 5. Click **Browse nRF Connect SDK Add-on Index**. The list of available nRF Connect SDK add-ons appears in the Visual Studio Code quick pick.
-6. Select **nRF Edge AI Add-on**.
+6. Select **Edge AI Add-on**.
 7. Select the add-on version to install. Depending on the speed of your internet connection, the update might take some time.
 
 ---
