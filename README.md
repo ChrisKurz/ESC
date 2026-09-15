@@ -5,9 +5,6 @@ Here you'll find the hands-on descriptions for the FAE training
 <br>
 
 - __LTS and Add-ons__ <br>
-
-<br>
-
 - __nRF54LM20 with Edge-AI__: <br>
   a) [Install nRF Edge AI Addon](2_nRF54LM20_with_Edge-AI/01-install-nrfedgeai-addon.md) <br>
   b) [Wake Word KWS Training](2_nRF54LM20_with_Edge-AI/02-wake-word-kws-training.md) <br>
