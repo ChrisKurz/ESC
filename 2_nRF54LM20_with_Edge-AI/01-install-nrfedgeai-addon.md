@@ -29,6 +29,23 @@ Clone the Edge AI Add-on code, together with the compatible nRF Connect SDK:
 
 ---
 
+## Method 2: Install Edge AI-Addon with west
+If you prefer to use the terminal, you can get started with this template by running the following commands:
+
+1. Create a new west workspace
+
+   ```
+   west init -m "https://github.com/nrfconnect/sdk-edge-ai" --mr v2.3.0
+   ```
+
+2. Clone the project's repositories
+
+   ```
+   west update
+   ```
+   
+---
+
 ## Method 2: Add-on as an Extra Zephyr Module
 Before using this approach, ensure that a compatible version of the nRF Connect SDK is installed. To identify the compatible nRF Connect SDK version, check the `west.yml` file of the Edge AI Add-on. Since west does not manage the add-on in this setup, you are responsible for keeping the versions synchronized.
 
