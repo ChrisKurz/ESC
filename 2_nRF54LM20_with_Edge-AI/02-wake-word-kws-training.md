@@ -235,3 +235,7 @@ Keyword spotting window timeout
 - [nRF Edge AI Observability Library — Built-in metric: Probability distribution](https://nrfconnectdocs.nordicsemi.com/addons/addon-edge-ai/latest/libraries/nrf_edgeai_obsv.html#nrf-edgeai-obsv-metrics-built-in-probability)
 - [nRF Edge AI Observability Library — Built-in metric: Transition matrix](https://nrfconnectdocs.nordicsemi.com/addons/addon-edge-ai/latest/libraries/nrf_edgeai_obsv.html#nrf-edgeai-obsv-metrics-built-in-transition)
 - [Edge AI Lab — Wake Word Detection](https://docs.nordicsemi.com/r/bundle/edge-ai-lab/page/wake_word.html)
+
+---
+
+[Next: _Change wake-word_](03-change-wakeword.md)
