@@ -46,7 +46,7 @@ If you prefer to use the terminal, you can get started with this template by run
    
 ---
 
-## Method 2: Add-on as an Extra Zephyr Module
+## Method 3: Add-on as an Extra Zephyr Module
 Before using this approach, ensure that a compatible version of the nRF Connect SDK is installed. To identify the compatible nRF Connect SDK version, check the `west.yml` file of the Edge AI Add-on. Since west does not manage the add-on in this setup, you are responsible for keeping the versions synchronized.
 
 1. Clone the Add-on repository:
