@@ -26,7 +26,7 @@ Audio is captured as single-channel, 16 kHz PCM from a PDM digital microphone an
 | Microphone | PDM digital microphone, left channel only (tested with Adafruit PDM MEMS Microphone, product 3492) |
 | Mic wiring | `3V → VDD:IO`, `GND → GND`, `SEL → GND` (selects left channel), `CLK → P1.4`, `DAT → P1.5` |
 
-
+![image](images/nrf54lm20dk-ada3492.jpg)
 
 ---
 
